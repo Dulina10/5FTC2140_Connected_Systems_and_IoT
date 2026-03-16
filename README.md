@@ -54,14 +54,14 @@ This repository contains all files related to the CW2 implementation.
 
 # 🏗 System Architecture
 
-Node 1  ──LoRa
-│      
-▼ 
-Node 2  ──LoRa 
+Node 1  ──LoR
 │ 
-▼ 
+▼
+Node 2  ──LoRa
+│
+▼
 Gateway (ESP32)  
-│                          
+│
 ▼                       
 Wi‑Fi                         
 │                   
